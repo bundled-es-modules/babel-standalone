@@ -1,0 +1,5 @@
+{
+  "name": "babel-standalone",
+  "description": "mirror of babel-standalone for bower, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>"
+}
