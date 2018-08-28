@@ -1,6 +1,7 @@
 {
-  "name": "babel-standalone",
-  "description": "mirror of babel-standalone for bower, bundled and exposed as ES module",
+  "name": "@bundled-es-modules/babel-standalone",
+  "version": "6.26.0",
+  "description": "mirror of babel-standalone, bundled and exposed as ES module",
   "author": "Mikhail Bashkirov <bashmish@gmail.com>",
   "main": "index.js",
   "devDependencies": {
